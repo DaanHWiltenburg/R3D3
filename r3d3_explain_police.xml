@@ -1,0 +1,19 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+  <speech id="explain_police" start="0">
+    <text>
+      Wij zijn hier vandaag om te tonen welke nieuwe technologie ontwikkeld wordt.
+      Wij laten hiermee zien wat robots op dit moment kunnen.
+      In de toekomst gaat dit snel veranderen, dus het is ook voor de politie belangrijk om deze nieuwe technologie te zien.
+      
+      Heeft u nog andere vragen?
+    </text>
+  </speech>
+
+  <faceLexeme id="l1481051714304" start="0" end="explain_police:end-4" lexeme="smile" />
+  <head id="l1481051718216" lexeme="NOD" amount="0.2" repetition="1" start="1" />
+  
+  <!-- EyePi -->
+  <gesture lexeme="e_excited" id="e1" start="10"/>
+  <gesture lexeme="e_neutral" id="e2" start="25"/>
+  
+</bml>

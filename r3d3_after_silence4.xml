@@ -1,0 +1,10 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+  <speech id="s1" start="0">
+    <text>
+     
+	  Je bent erg stil. Het lijkt alsof je met je gedachten ergens anders bent.
+	  
+    </text>
+  </speech>
+  
+</bml>

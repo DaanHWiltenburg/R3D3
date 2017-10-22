@@ -1,0 +1,11 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+  <speech id="s1" start = "0"  >
+    <text >	
+	Een robot is bedoeld om klusjes voor mensen uit te voeren. Soms zijn deze klusjes saai en willen mensen het niet meer zelf doen. Maar soms zijn de robots gewoon beter in deze taken. 
+	Robots kunnen heel sterk en precies werken, waardoor ze in een fabriek auto's in elkaar kunnen zetten. Robots kunnen ook worden gebruikt om te zoeken in ruimtes waar mensen niet kunnen komen, bijvoorbeeld in de lucht of onder water.
+
+    </text>
+  </speech>
+  
+  
+</bml> 

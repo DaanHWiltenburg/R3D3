@@ -1,0 +1,10 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+  <speech id="s1" start="0">
+    <text>
+     
+	  Jij bent nu aan de beurt om iets te zeggen, is er iets dat je me wilt vertellen?
+	  
+    </text>
+  </speech>
+  
+</bml>

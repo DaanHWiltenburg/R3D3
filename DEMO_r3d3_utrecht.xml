@@ -1,0 +1,15 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt" xmlns:eyepi="http://hmi.ewi.utwente.nl/eyepiengine">
+  <speech id="s1" start="1">
+    <text>
+	Wat leuk om weer een keer in Utrecht te zijn. Waar het bruist aan alle kant. In het hartje van het land.  
+    </text>
+  </speech>
+
+  
+  <!-- eyepi -->
+  <gesture lexeme="e_excited" id="e6" start="5" end="6"/>
+  
+  <!-- Additional EyePi behaviour: eyepi_gaze_left_and_right -->
+ 
+  
+</bml>

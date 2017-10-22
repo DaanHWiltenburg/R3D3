@@ -1,0 +1,19 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+  <!-- Leeloo -->
+  <speech id="lure" start="0">
+    <text>
+      Hoi! Welkom! Kom gerust dichterbij!
+      Kan ik u iets vertellen over dit project of over mijzelf?
+    </text>
+  </speech>
+
+  <faceLexeme id="l1481051714304" start="lure:end" end="lure:end+2" lexeme="smile" />
+  <head id="l1481051718216" lexeme="NOD" amount="0.1" repetition="1" start="lure:end" />
+  
+  <!-- EyePi -->
+  <pointing target="left" id="p1" start="0" end="3"/>
+  <gesture lexeme="s_dance" id="g1" start="4"/>
+  <gesture id="arm_control_high" start="2" lexeme="armcontrol_hig" />
+  <gesture id="arm_control_low" start="3" lexeme="armcontrol_low" />
+
+</bml>

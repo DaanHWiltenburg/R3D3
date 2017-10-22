@@ -1,0 +1,12 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt" xmlns:eyepi="http://hmi.ewi.utwente.nl/eyepiengine">
+  <speech id="s1" start = "0"  >
+    <text >	
+	Wij gaan vaak op tournee. Laatst waren we in NEMO, het museum van de wetenschap. 
+	We zijn ook bij de politie akedemie geweest.
+	Volgende week gaan we naar de Twente Science Night.
+	
+    </text>
+  </speech>
+  
+  
+</bml>

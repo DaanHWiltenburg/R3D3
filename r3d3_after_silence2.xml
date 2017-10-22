@@ -1,0 +1,13 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+  <speech id="s1" start="0">
+    <text>
+     
+	  Wees maar niet bang, ik bijt niet. Je kunt gerust iets zeggen. 
+	  
+    </text>
+  </speech>
+  
+   <!-- eyepi -->
+  <gesture lexeme="e_excited" id="e2" start="2" end="3"/>
+  
+</bml>

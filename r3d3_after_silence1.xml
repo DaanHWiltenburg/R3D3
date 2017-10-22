@@ -1,0 +1,14 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+  <speech id="s1" start="0">
+    <text>
+     
+	  Wat ben je stil. Dit is saai. Is er niks dat je aan me wilt vragen? 
+	  
+    </text>
+  </speech>
+  
+  <gesture lexeme="e_sleepy" id="e6" start="0" end="1"/>
+  
+  <!-- Additional EyePi behaviour: eyepi_gaze_at_VH -->
+  
+</bml>

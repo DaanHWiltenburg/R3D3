@@ -1,0 +1,22 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+
+  <!-- EyePi -->
+  <gesture lexeme="s_dance" id="g1" start="10" />
+  <gesture lexeme="s_dance" id="g2" start="14" />
+  <gesture lexeme="s_dance" id="g3" start="17" />
+  <gesture lexeme="e_excited" id="e1" start="1" />
+  <gesture lexeme="e_neutral" id="e2" start="20" />
+
+  <!-- Leeloo -->
+  <speech id="farewell" start="0">
+    <text>
+      Bedankt voor dit gesprek en tot ziens!
+      
+      Doei!
+    </text>
+  </speech>
+  
+  <faceLexeme id="l1481051714304" start="farewell:end" end="farewell:end+2" lexeme="smile" />
+  <head id="l1481051718216" lexeme="NOD" amount="0.1" repetition="1" start="farewell:end" />
+  
+</bml>

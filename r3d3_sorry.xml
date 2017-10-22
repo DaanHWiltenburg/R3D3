@@ -1,0 +1,16 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+  <speech id="sorry" start="0">
+    <text>
+      Sorry, ik begrijp niet helemaal wat u bedoelt.
+    </text>
+	<!-- Demo bij BSO en NEMO
+	<text>
+      Ik versta je niet goed, maar ik kan wel iets vertellen over robots zoals ik. Wil je dat? Zeg dan robot!
+    </text>-->
+  </speech>
+
+    
+  <faceLexeme id="l1481051714304" start="0" end="sorry:end" lexeme="neutral" />
+  <head id="l1481051718216" lexeme="SHAKE" amount="0.1" repetition="2" />
+  
+</bml>

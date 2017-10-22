@@ -1,0 +1,13 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+  <speech id="greeting" start="0">
+    <text>
+      Hallo Jeroen!
+      Ik ben Er Drie Dee Drie en ik vind het jammer dat je weggaat.
+	  Stel mij gerust een vraag en ik zal hem proberen te beantwoorden!
+    </text>
+  </speech>
+
+  <faceLexeme id="l1481051714304" start="0" end="greeting:end" lexeme="smile" />
+  <head id="l1481051718216" lexeme="NOD" amount="0.2" repetition="1" start="1" />
+  
+</bml>

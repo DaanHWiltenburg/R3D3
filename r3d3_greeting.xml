@@ -1,0 +1,14 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+  <speech id="s1" start="0">
+    <text>
+     Hee!. 
+     Hallo!,
+     Wij zijn robotje en Emma en wij kunnen je iets vertellen over robots.  
+    </text>
+  </speech>
+
+  <faceLexeme id="l1481051714304" start="0" end="greeting:end" lexeme="smile" />
+  <head id="l1481051718216" lexeme="NOD" amount="0.2" repetition="1" start="1" />
+  
+  
+</bml>

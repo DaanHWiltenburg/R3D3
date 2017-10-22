@@ -1,0 +1,30 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+  <speech id="explain_robots" start="0">
+    <text>
+     Ik ben Emma, en dit hier boven mij is robotje. 
+     Samen zijn wij een, echte robot. 
+     Misschien kennen jullie mijn vriend wallie. 
+     Hij kan al heel goed voor zichzelf zorgen. 
+     Maar zo ver zijn wij nog niet. Voor een robot is het niet zo makkelijk om dingen te begrijpen zoals jij dat kan. 
+     Wij hebben geen oren. 
+     Wij luisteren met een microfoon. 
+     We hebben ook geen mond. Wij praten met een luidspreker, net zoals de radio. 
+     
+     Ons geheugen is ook niet zo goed als die van jou. 
+     Ons geheugen werkt het zelfde als een computer of je telefoon. 
+     Als je iets zegt, dan begrijp ik je alleen als de woorden die je gebruikt in mijn geheugen staan. 
+     Maar we worden steeds slimmer en leren iedere dag bij. 
+     Toch robotje? 
+
+     Hebben jullie al eens eerder contact gehad met een robot? 
+    </text>
+  </speech>
+
+  <faceLexeme id="l1481051714304" start="0" end="explain_robots:end" lexeme="smile" />
+  <head id="l1481051718216" lexeme="NOD" amount="0.2" repetition="1" start="1" />
+  
+  <!-- EyePi -->
+  <gesture lexeme="e_excited" id="e1" start="0"/>
+  <gesture lexeme="e_neutral" id="e2" start="10"/>
+  
+</bml>

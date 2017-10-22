@@ -1,0 +1,19 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:eyepi="http://hmi.ewi.utwente.nl/eyepiengine">
+    
+	 
+	 
+    
+   
+
+	 
+	
+	
+	<eyepi:eyePiGaze x="-1" y="0" id="gaze1normal" start="1" end="1.5"/>
+
+
+	
+	
+    <!--gesture lexeme="e_neutral" id="e6" start="0" end="0.1" /-->
+
+   
+</bml>

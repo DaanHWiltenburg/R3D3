@@ -1,0 +1,9 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt" >
+  <speech id="s1" start = "0"  >
+    <text >
+     Robots worden steeds verder ontwikkeld, zodat we ze straks overal tegen kunnen komen. Voor de klas, in huis en op straat. Maar hoe moet je dan met zoon robot omgaan?      
+    </text>
+  </speech>
+  
+  
+</bml>

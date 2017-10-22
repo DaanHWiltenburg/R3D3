@@ -1,0 +1,19 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt" xmlns:eyepi="http://hmi.ewi.utwente.nl/eyepiengine">
+  <speech id="s1" start="0">
+    <text>
+    Een robot kan niet zo goed kijken zoals mensen zoals jij.
+    Onze ogen zijn camera's. De dingen die wij zien is dus eigenlijk een soort filmpje.
+    </text>
+  </speech>
+
+  <faceLexeme id="l1481051714304" start="0" end="s1:end" lexeme="smile" />
+  <head id="l1481051718216" lexeme="NOD" amount="0.2" repetition="1" start="1" />
+  
+  <!-- eyepi -->
+  <gesture lexeme="e_amazed" id="e1" start="4" end="7"/>
+  <gesture lexeme="e_neutral" id="e6" start="7"/>
+ 
+  
+</bml>
+
+

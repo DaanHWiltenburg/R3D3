@@ -1,0 +1,9 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt"  >
+  <speech id="s1" start = "0"  >
+    <text >	
+	Bedrijven zoals google proberen autos te maken, die helemaal vanzelf kunnen rijden. Niemand hoeft de auto's te besturen. Dit is heel ingewikkeld, want ze moeten met heel veel dingen rekening houden. Deze auto's zijn ook robots.
+    </text>
+  </speech>
+  
+  
+</bml>

@@ -1,0 +1,8 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+  <speech id="s1" start="0">
+    <text>
+      Ik begrijp niet alles wat je zegt. Dat komt omdat mijn makers bepalen wat ik wel en niet kan begrijpen. Begrijp je?
+    </text>
+  </speech>
+  
+</bml>

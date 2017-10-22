@@ -1,0 +1,24 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+  <speech id="explain_project_asr" start="0">
+    <text>
+      Met behulp van automatische spraakherkenning proberen wij te begrijpen wat u zegt.
+      Geavanceerde computermodellen helpen ons hierbij.
+      Ze zijn nog niet perfect, zoals u wellicht merkt.
+      Daarom zijn we deze continu aan het verbeteren.
+      
+      Bent u benieuwd naar iets anders in dit project?
+      Bijvoorbeeld de beeldherkenning?
+      Of wat we volgend jaar gaan doen?
+      
+      Of heeft u genoeg gehoord?
+    </text>
+  </speech>
+
+  <faceLexeme id="l1481051714304" start="0" end="explain_project_asr:end-4" lexeme="smile" />
+  <head id="l1481051718216" lexeme="NOD" amount="0.2" repetition="1" start="1" />
+  
+  <!-- EyePi -->
+  <gesture lexeme="e_excited" id="e1" start="10"/>
+  <gesture lexeme="e_neutral" id="e2" start="25"/>
+  
+</bml>

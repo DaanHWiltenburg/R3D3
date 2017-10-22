@@ -1,0 +1,9 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt"  >
+  <speech id="s1" start = "0"  >
+    <text >	
+	Robotje, boven mij, kan niet praten. Toch helpt hij mij heel goed. Hij kijkt naar jullie en rijdt mij rond. Soms wordt hij boos, weet jij waarom?
+    </text>
+  </speech>
+  
+  
+</bml>

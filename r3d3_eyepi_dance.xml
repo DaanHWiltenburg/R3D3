@@ -1,0 +1,26 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt" xmlns:eyepi="http://hmi.ewi.utwente.nl/eyepiengine">
+  <speech id="s0" start="0">
+    <text>
+    Zeg robot, doe eens een dansje.
+    </text>
+  </speech>
+
+  <faceLexeme id="l1481051714304" start="0" end="s0:end" lexeme="smile" />
+  
+  
+  <!-- eyepi -->
+  <gesture lexeme="s_dance" id="g1" start="s0:end"/>
+  
+  <gesture lexeme="e_amazed" id="e1" start="s0:end" end="s1:end"/>
+  <gesture lexeme="e_neutral" id="e6" start="s1:end"/>
+  
+  <speech id="s1" start="g1:end">
+    <text>
+    Haha. Ja heel goed!
+    </text>
+  </speech>
+ 
+  
+</bml>
+
+

@@ -1,0 +1,4 @@
+<bml xmlns="http://www.bml-initiative.org/bml/bml-1.0" id="$id$">
+  <!-- TODO: make lexeme variable with $$. -->
+  <gesture lexeme="e_excited" id="e1" start="0"/>
+</bml>

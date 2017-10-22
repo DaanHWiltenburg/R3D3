@@ -1,0 +1,9 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt" > 
+  <speech id="s1" start = "0"  >
+    <text >	
+	Er is al een school waar de kinderen les krijgen van een robot, maar dat is alleen in groep 1 en groep 2.
+    </text>
+  </speech>
+  
+  
+</bml>

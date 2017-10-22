@@ -1,0 +1,26 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+
+  <!-- EyePi -->
+  <gesture lexeme="s_nod" id="g1" start="3" />
+  <gesture id="arm_high" start="4" lexeme="armcontrol_high" />
+  <gesture id="arm_low" start="4" lexeme="armcontrol_low" />
+  
+  <gesture lexeme="e_excited" id="e1" start="1" />
+  <gesture lexeme="e_neutral" id="e2" start="10" />
+  
+  <!-- Leeloo -->
+  <speech id="explain_r3d3_1" start="0">
+    <text>
+      Ik ben Arie.
+      Mijn grote vriend is een robot.
+      Wij zijn samen Er Drie Dee Drie.
+      Wij proberen mensen te helpen door hun vragen te beantwoorden.
+      Wilt u iets weten over dit project?
+    </text>
+  </speech>
+
+  <faceLexeme id="l1481051714304" start="0" end="explain_r3d3_1:end" lexeme="smile" />
+  <head id="l1481051718216" lexeme="NOD" amount="0.2" repetition="1" />
+  
+  
+</bml>

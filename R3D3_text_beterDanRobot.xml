@@ -1,0 +1,9 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt"  >
+  <speech id="s1" start = "0"  >
+    <text >	
+	Robots kunnen steeds meer dingen uitvoeren. Toch zijn mensen nog steeds beter in veel dingen. Wat kan jij beter doen dan een robot?
+    </text>
+  </speech>
+  
+  
+</bml>

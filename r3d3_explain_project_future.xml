@@ -1,0 +1,27 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+  <speech id="explain_project_future" start="0">
+    <text>
+      Volgend jaar kunnen wij veel meer dan nu.
+      Ai Pai wordt mobiel en kan u rondleiden.
+      Wij gaan dan ook beter begrijpen wat u zegt.
+      Wij kunnen u dan bijvoorbeeld helpen om een afspraak te bereiken.
+      
+      Wilt u nog meer horen over dit project of heeft u genoeg gehoord?
+    </text>
+  </speech>
+  
+  <!-- Wij kunnen u dan bijvoorbeeld helpen om een afspraak te bereiken of het atrium te bezichtigen. -->
+
+  <faceLexeme id="l1481051714304" start="0" end="explain_project_future:end-4" lexeme="smile" />
+  <head id="l1481051718216" lexeme="NOD" amount="0.2" repetition="1" start="1" />
+  
+  <!-- EyePi -->
+  <gesture id="arm_control_high" start="5" lexeme="armcontrol_high" />
+  <gesture id="arm_control_low" start="8" lexeme="armcontrol_low" />
+  
+  <gesture lexeme="e_excited" id="5" start="10"/>
+  <gesture lexeme="e_neutral" id="10" start="25"/>
+  
+  <!--pointing target="right" id="p1" start="20" end="25"/-->
+  
+</bml>

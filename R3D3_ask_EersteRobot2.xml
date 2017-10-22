@@ -1,0 +1,11 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt"  >
+  <speech id="s1" start = "0"  >
+    <text >	
+	Er wordt gezegd dat de eerste robot is ontworpen door een griek. Dit was nog 400 jaar voor onze jaartelling. De robot was een vliegende eend.
+
+    In 1961, dat is 56 jaar geleden, werd de eerste robot gemaakt, die door een computer werd aangestuurt.
+    </text>
+  </speech>
+  
+  
+</bml>

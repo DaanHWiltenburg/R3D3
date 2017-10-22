@@ -1,0 +1,10 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+  <speech id="explain_hearing" start="0">
+    <text>
+     Voor een robot is het niet zo makkelijk om dingen te begrijpen zoals jij dat kan. 
+     Wij hebben geen oren. 
+     Wij luisteren met een microfoon.  
+    </text>
+  </speech>
+  
+</bml>

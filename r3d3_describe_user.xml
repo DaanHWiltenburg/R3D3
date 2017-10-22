@@ -1,0 +1,9 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt">
+  <speech id="describe_user" start="0">
+    <text>
+      Even kijken...
+      U bent volgens mij bent u ongeveer... $age$ jaar oud.
+      Heeft u nog andere vragen voor mij?
+    </text>
+  </speech>
+</bml>

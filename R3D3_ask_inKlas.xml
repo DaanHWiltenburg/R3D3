@@ -1,0 +1,9 @@
+<bml id="$id$" xmlns="http://www.bml-initiative.org/bml/bml-1.0" xmlns:bmlt="http://hmi.ewi.utwente.nl/bmlt"  >
+  <speech id="s1" start = "0"  >
+    <text >	
+	Er wordt nu al getest met robots die voor de klas staan. Hoe zou jij het vinden om les te krijgen van een robot?
+    </text>
+  </speech>
+  
+  
+</bml>
